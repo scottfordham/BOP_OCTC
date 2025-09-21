@@ -1,0 +1,2 @@
+n_points,start_time_utc,end_time_utc,duration_seconds,mean_lat,mean_lon,std_east_m,std_north_m,std_radial_m,CEP50_m,R68_m,R95_m,Rmax_m
+248,2025-09-19T18:05:20+00:00,2025-09-19T18:09:27+00:00,247.0,43.325092,-116.414421,0.0,0.0,0.0,0.0,0.0,0.0,0.0
