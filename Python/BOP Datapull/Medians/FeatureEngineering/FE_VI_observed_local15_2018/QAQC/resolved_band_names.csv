@@ -1,0 +1,6 @@
+VI,VI0,DOY0,max,DOYmax,deltaRise,sRise
+NDVI,NDVI_VI0,NDVI_doy0,NDVI_max,NDVI_doyMax,NDVI_deltaRise,NDVI_sRise
+OSAVI,OSAVI_VI0,OSAVI_doy0,OSAVI_max,OSAVI_doyMax,OSAVI_deltaRise,OSAVI_sRise
+CVI,CVI_VI0,CVI_doy0,CVI_max,CVI_doyMax,CVI_deltaRise,CVI_sRise
+NDRE,NDRE_VI0,NDRE_doy0,NDRE_max,NDRE_doyMax,NDRE_deltaRise,NDRE_sRise
+NIRv,NIRv_VI0,NIRv_doy0,NIRv_max,NIRv_doyMax,NIRv_deltaRise,NIRv_sRise

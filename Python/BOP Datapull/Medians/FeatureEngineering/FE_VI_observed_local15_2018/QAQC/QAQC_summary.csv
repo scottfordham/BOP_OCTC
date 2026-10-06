@@ -1,0 +1,13 @@
+check,value
+n_shards,4
+band_count,30
+expected_band_count,30
+crs,"PROJCS[""NAD83 / UTM zone 11N"",GEOGCS[""NAD83"",DATUM[""North American Datum 1983"",SPHEROID[""GRS 1980"",6378137,298.257222101004]],PRIMEM[""Greenwich"",0],UNIT[""degree"",0.0174532925199433,AUTHORITY[""EPSG"",""9122""]]],PROJECTION[""Transverse_Mercator""],PARAMETER[""latitude_of_origin"",0],PARAMETER[""central_meridian"",-117],PARAMETER[""scale_factor"",0.9996],PARAMETER[""false_easting"",500000],PARAMETER[""false_northing"",0],UNIT[""metre"",1,AUTHORITY[""EPSG"",""9001""]],AXIS[""Easting"",EAST],AXIS[""Northing"",NORTH]]"
+resolution_x,10.0
+resolution_y,10.0
+nodata,-32768.0
+sample_locations,79191
+all_shards_same_band_count,True
+all_shards_same_crs,True
+all_shards_same_dtype,True
+all_shards_same_nodata,True
