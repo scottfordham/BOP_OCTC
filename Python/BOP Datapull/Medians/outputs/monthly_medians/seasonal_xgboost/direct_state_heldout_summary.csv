@@ -1,0 +1,2 @@
+direct_accuracy,direct_balanced_accuracy,membership_argmax_accuracy,majority_train_baseline,n_test
+0.6685082872928176,0.6271928071928072,0.6187845303867403,0.35911602209944754,181
